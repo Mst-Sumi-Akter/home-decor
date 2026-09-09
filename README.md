@@ -1,5 +1,5 @@
 
-project Name: Home decor 
+project Name: Home Decor 
 
 
 
